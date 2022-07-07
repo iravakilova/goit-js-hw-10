@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hw-10",
+  "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://iravakilova.github.io/goit-js-hw-10",
@@ -17,7 +17,9 @@
     "url": "https://github.com/iravakilova/goit-js-hw-10/issues"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0"
+    "lodash.debounce": "^4.0.8",
+    "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.5"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
